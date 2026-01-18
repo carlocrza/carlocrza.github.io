@@ -4,16 +4,20 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
   <channel>
-    <title>My Audio Collection</title>
-    <link>https://example.com</link>
-    <language>en-us</language>
-    <description>A collection of my audio recordings.</description>
+    <title>Dutch &amp; Go Spreektaal Audio [unofficial]</title>
+    <link>https://www.youtube.com/@DutchGo</link>
+    <language>nl-be</language>
+    <description>Audio from 'Spreektaal' videos from Dutch &amp; Go.</description>
 
-    <itunes:author>Your Name</itunes:author>
+    <itunes:author>Dutch &amp; Go</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
-    <itunes:image href="https://example.com/podcast-cover.jpg"/>
+    <itunes:category text="Education">
+    <itunes:category text="Language Learning" />
+    </itunes:category>
+
+    <itunes:image href="https://yt3.googleusercontent.com/ytc/AIdro_m8jGiSBxmH0yMV2-8gBTZ2xPiCV68FvMdHytgizqCADhE=s900-c-k-c0x00ffffff-no-rj"/>
     <itunes:category text="Technology"/>
 
     <!-- Episode -->
@@ -30,6 +34,16 @@
 
       <itunes:duration>12:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Spreektaal 0 - Dutch⧸Flemish listening comprehension - luistervaardigheid Nederlands⧸Vlaams</title>
+      <description>Spreektaal 0 - Dutch⧸Flemish listening comprehension - luistervaardigheid Nederlands⧸Vlaams</description>
+      <pubDate>Sun, 18 Jan 2026 05:20:25 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%200%20-%20Dutch%E2%A7%B8Flemish%20listening%20comprehension%20-%20luistervaardigheid%20Nederlands%E2%A7%B8Vlaams.m4a</guid>
+
+      <enclosure url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%200%20-%20Dutch%E2%A7%B8Flemish%20listening%20comprehension%20-%20luistervaardigheid%20Nederlands%E2%A7%B8Vlaams.m4a" type="audio/m4a"/>
+      
     </item>
 
   </channel>
