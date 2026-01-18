@@ -3,6 +3,7 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
   <channel>
+    <atom:link href="https://carloc.me/spreektaal.xml" rel="self" title="MP3 Audio" type="application/atom+xml"/>
     <title>Dutch &amp; Go Spreektaal Audio [unofficial]</title>
     <link>https://www.youtube.com/@DutchGo</link>
     <language>nl-be</language>
