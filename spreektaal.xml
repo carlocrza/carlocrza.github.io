@@ -7,7 +7,13 @@
     <title>Dutch &amp; Go Spreektaal Audio [unofficial]</title>
     <link>https://www.youtube.com/@DutchGo</link>
     <language>nl-be</language>
-    <description>Audio from 'Spreektaal' videos from Dutch &amp; Go.</description>
+    <description>
+      <![CDATA[
+      <p>Audio from 'Spreektaal' videos from Dutch &amp; Go.</p>
+
+      <p> Official playlist: https://www.youtube.com/watch?v=Dk7aK_CjldA&list=PL1wdpknINjDKZ309oNfT3yI_8_0yBhC3u</p>
+      ]]>
+    </description>
 
     <itunes:author>Dutch &amp; Go</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -18,33 +24,251 @@
     </itunes:category>
 
     <itunes:image href="https://yt3.googleusercontent.com/ytc/AIdro_m8jGiSBxmH0yMV2-8gBTZ2xPiCV68FvMdHytgizqCADhE=s900-c-k-c0x00ffffff-no-rj"/>
-    <itunes:category text="Technology"/>
 
     <!-- Episode -->
     <item>
-      <title>Episode 1 – Introduction</title>
-      <description>This is the first episode.</description>
-      <pubDate>Mon, 15 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>episode-1</guid>
-
+      <title>Episode 1: Spreektaal 0 - Dutch⧸Flemish listening comprehension - luistervaardigheid Nederlands⧸Vlaams</title>
+      <description>Spreektaal 0 - Dutch⧸Flemish listening comprehension - luistervaardigheid Nederlands⧸Vlaams</description>
+      <itunes:episode>1</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:09 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%200%20-%20Dutch%E2%A7%B8Flemish%20listening%20comprehension%20-%20luistervaardigheid%20Nederlands%E2%A7%B8Vlaams.m4a</guid>
       <enclosure
-        url="https://example.com/audio/episode1.mp3"
-        length="12345678"
-        type="audio/mpeg"/>
-
-      <itunes:duration>12:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%200%20-%20Dutch%E2%A7%B8Flemish%20listening%20comprehension%20-%20luistervaardigheid%20Nederlands%E2%A7%B8Vlaams.m4a"
+        type="audio/m4a"/>
     </item>
 
     <item>
-      <title>Spreektaal 0 - Dutch⧸Flemish listening comprehension - luistervaardigheid Nederlands⧸Vlaams</title>
-      <description>Spreektaal 0 - Dutch⧸Flemish listening comprehension - luistervaardigheid Nederlands⧸Vlaams</description>
-      <pubDate>Sun, 18 Jan 2026 05:20:25 GMT</pubDate>
-      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%200%20-%20Dutch%E2%A7%B8Flemish%20listening%20comprehension%20-%20luistervaardigheid%20Nederlands%E2%A7%B8Vlaams.m4a</guid>
-
-      <enclosure url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%200%20-%20Dutch%E2%A7%B8Flemish%20listening%20comprehension%20-%20luistervaardigheid%20Nederlands%E2%A7%B8Vlaams.m4a" type="audio/m4a"/>
-      
+      <title>Episode 2: Spreektaal 1 - Welke talen spreek ik? - luisteren Nederlands⧸Vlaams oefenen</title>
+      <description>Spreektaal 1 - Welke talen spreek ik? - luisteren Nederlands⧸Vlaams oefenen</description>
+      <itunes:episode>2</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:09 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%201%20-%20Welke%20talen%20spreek%20ik%3F%20-%20luisteren%20Nederlands%E2%A7%B8Vlaams%20oefenen.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%201%20-%20Welke%20talen%20spreek%20ik%3F%20-%20luisteren%20Nederlands%E2%A7%B8Vlaams%20oefenen.m4a"
+        type="audio/m4a"/>
     </item>
+
+    <item>
+      <title>Episode 3: Spreektaal 10 - Wie is Nout? - adjectieven</title>
+      <description>Spreektaal 10 - Wie is Nout? - adjectieven</description>
+      <itunes:episode>3</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:09 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2010%20-%20Wie%20is%20Nout%3F%20-%20adjectieven.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2010%20-%20Wie%20is%20Nout%3F%20-%20adjectieven.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 4: Spreektaal 11 - Belgisch bier en belgische biercultuur - schol!</title>
+      <description>Spreektaal 11 - Belgisch bier en belgische biercultuur - schol!</description>
+      <itunes:episode>4</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:09 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2011%20-%20Belgisch%20bier%20en%20belgische%20biercultuur%20-%20schol%21.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2011%20-%20Belgisch%20bier%20en%20belgische%20biercultuur%20-%20schol%21.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 5: Spreektaal 12 - Een typische Kerst (?) | Dutch listening comprehension</title>
+      <description>Spreektaal 12 - Een typische Kerst (?) | Dutch listening comprehension</description>
+      <itunes:episode>5</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:09 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2012%20-%20Een%20typische%20Kerst%20%28%3F%29%20%7C%20Dutch%20listening%20comprehension.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2012%20-%20Een%20typische%20Kerst%20%28%3F%29%20%7C%20Dutch%20listening%20comprehension.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 6: Spreektaal 13 - Brugge | Dutch listening comprehension</title>
+      <description>Spreektaal 13 - Brugge | Dutch listening comprehension</description>
+      <itunes:episode>6</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:09 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2013%20-%20Brugge%20%7C%20Dutch%20listening%20comprehension.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2013%20-%20Brugge%20%7C%20Dutch%20listening%20comprehension.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 7: Spreektaal 14 - Netherlands vs. Flanders | Dutch listening comprehension</title>
+      <description>Spreektaal 14 - Netherlands vs. Flanders | Dutch listening comprehension</description>
+      <itunes:episode>7</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:09 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2014%20-%20Netherlands%20vs.%20Flanders%20%7C%20Dutch%20listening%20comprehension.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2014%20-%20Netherlands%20vs.%20Flanders%20%7C%20Dutch%20listening%20comprehension.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 8: Spreektaal 15 - My Favorite Dutch Literature | Dutch listening comprehension NT2</title>
+      <description>Spreektaal 15 - My Favorite Dutch Literature | Dutch listening comprehension NT2</description>
+      <itunes:episode>8</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:10 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2015%20-%20My%20Favorite%20Dutch%20Literature%20%7C%20Dutch%20listening%20comprehension%20NT2.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2015%20-%20My%20Favorite%20Dutch%20Literature%20%7C%20Dutch%20listening%20comprehension%20NT2.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 9: Spreektaal 16 - Huisdieren | Dutch listening comprehension NT2</title>
+      <description>Spreektaal 16 - Huisdieren | Dutch listening comprehension NT2</description>
+      <itunes:episode>9</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:10 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2016%20-%20Huisdieren%20%7C%20Dutch%20listening%20comprehension%20NT2.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2016%20-%20Huisdieren%20%7C%20Dutch%20listening%20comprehension%20NT2.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 10: Spreektaal 17 - Clichés over Vlamingen | Dutch listening comprehension NT2</title>
+      <description>Spreektaal 17 - Clichés over Vlamingen | Dutch listening comprehension NT2</description>
+      <itunes:episode>10</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:10 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2017%20-%20Cliche%CC%81s%20over%20Vlamingen%20%7C%20Dutch%20listening%20comprehension%20NT2.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2017%20-%20Cliche%CC%81s%20over%20Vlamingen%20%7C%20Dutch%20listening%20comprehension%20NT2.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 11: Spreektaal 18 - Stand-up comedy in België en Nederland | Dutch listening comprehension NT2</title>
+      <description>Spreektaal 18 - Stand-up comedy in België en Nederland | Dutch listening comprehension NT2</description>
+      <itunes:episode>11</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:10 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2018%20-%20Stand-up%20comedy%20in%20Belgie%CC%88%20en%20Nederland%20%7C%20Dutch%20listening%20comprehension%20NT2.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2018%20-%20Stand-up%20comedy%20in%20Belgie%CC%88%20en%20Nederland%20%7C%20Dutch%20listening%20comprehension%20NT2.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 12: Spreektaal 19 - Mijn relatie met dialecten en standaardtaal | Dutch listening comprehension NT2</title>
+      <description>Spreektaal 19 - Mijn relatie met dialecten en standaardtaal | Dutch listening comprehension NT2</description>
+      <itunes:episode>12</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:10 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2019%20-%20Mijn%20relatie%20met%20dialecten%20en%20standaardtaal%20%7C%20Dutch%20listening%20comprehension%20NT2.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2019%20-%20Mijn%20relatie%20met%20dialecten%20en%20standaardtaal%20%7C%20Dutch%20listening%20comprehension%20NT2.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 13: Spreektaal 2 - Taylor Swift - Lover - luisteren Nederlands⧸Vlaams oefenen</title>
+      <description>Spreektaal 2 - Taylor Swift - Lover - luisteren Nederlands⧸Vlaams oefenen</description>
+      <itunes:episode>13</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:10 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%202%20-%20Taylor%20Swift%20-%20Lover%20-%20luisteren%20Nederlands%E2%A7%B8Vlaams%20oefenen.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%202%20-%20Taylor%20Swift%20-%20Lover%20-%20luisteren%20Nederlands%E2%A7%B8Vlaams%20oefenen.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 14: Spreektaal 20 - Mijn routine | Dutch listening comprehension NT2</title>
+      <description>Spreektaal 20 - Mijn routine | Dutch listening comprehension NT2</description>
+      <itunes:episode>14</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:11 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2020%20-%20Mijn%20routine%20%7C%20Dutch%20listening%20comprehension%20NT2.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2020%20-%20Mijn%20routine%20%7C%20Dutch%20listening%20comprehension%20NT2.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 15: Spreektaal 21 - Kerstspecial - Ambetante Kerstvragen | tussentaal</title>
+      <description>Spreektaal 21 - Kerstspecial - Ambetante Kerstvragen | tussentaal</description>
+      <itunes:episode>15</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:11 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2021%20-%20Kerstspecial%20-%20Ambetante%20Kerstvragen%20%7C%20tussentaal.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%2021%20-%20Kerstspecial%20-%20Ambetante%20Kerstvragen%20%7C%20tussentaal.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 16: Spreektaal 3 - Mijn hobbys - luisteren Vlaams⧸Nederlands oefenen</title>
+      <description>Spreektaal 3 - Mijn hobbys - luisteren Vlaams⧸Nederlands oefenen</description>
+      <itunes:episode>16</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:11 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%203%20-%20Mijn%20hobbys%20-%20luisteren%20Vlaams%E2%A7%B8Nederlands%20oefenen.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%203%20-%20Mijn%20hobbys%20-%20luisteren%20Vlaams%E2%A7%B8Nederlands%20oefenen.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 17: Spreektaal 4 - Kerst en Nieuwjaar in België</title>
+      <description>Spreektaal 4 - Kerst en Nieuwjaar in België</description>
+      <itunes:episode>17</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:11 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%204%20-%20Kerst%20en%20Nieuwjaar%20in%20Belgie%CC%88.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%204%20-%20Kerst%20en%20Nieuwjaar%20in%20Belgie%CC%88.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 18: Spreektaal 5 - Formeel en informeel spreken in Vlaanderen en Nederland</title>
+      <description>Spreektaal 5 - Formeel en informeel spreken in Vlaanderen en Nederland</description>
+      <itunes:episode>18</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:11 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%205%20-%20Formeel%20en%20informeel%20spreken%20in%20Vlaanderen%20en%20Nederland.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%205%20-%20Formeel%20en%20informeel%20spreken%20in%20Vlaanderen%20en%20Nederland.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 19: Spreektaal 6 - Het klimaat van België</title>
+      <description>Spreektaal 6 - Het klimaat van België</description>
+      <itunes:episode>19</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:11 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%206%20-%20Het%20klimaat%20van%20Belgie%CC%88.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%206%20-%20Het%20klimaat%20van%20Belgie%CC%88.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 20: Spreektaal 7 - Lockdown tips - Hier zijn mijn favoriete series en films!</title>
+      <description>Spreektaal 7 - Lockdown tips - Hier zijn mijn favoriete series en films!</description>
+      <itunes:episode>20</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:12 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%207%20-%20Lockdown%20tips%20-%20Hier%20zijn%20mijn%20favoriete%20series%20en%20films%21.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%207%20-%20Lockdown%20tips%20-%20Hier%20zijn%20mijn%20favoriete%20series%20en%20films%21.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 21: Spreektaal 8 - Colloquialisms 8 - Eating and drinking in Belgium</title>
+      <description>Spreektaal 8 - Colloquialisms 8 - Eating and drinking in Belgium</description>
+      <itunes:episode>21</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:12 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%208%20-%20Colloquialisms%208%20-%20Eating%20and%20drinking%20in%20Belgium.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%208%20-%20Colloquialisms%208%20-%20Eating%20and%20drinking%20in%20Belgium.m4a"
+        type="audio/m4a"/>
+    </item>
+
+    <item>
+      <title>Episode 22: Spreektaal 9 - Mijn beste vakantie ooit (Dutch listening)</title>
+      <description>Spreektaal 9 - Mijn beste vakantie ooit (Dutch listening)</description>
+      <itunes:episode>22</itunes:episode>
+      <pubDate>Sun, 18 Jan 2026 05:38:12 GMT</pubDate>
+      <guid>https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%209%20-%20Mijn%20beste%20vakantie%20ooit%20%28Dutch%20listening%29.m4a</guid>
+      <enclosure
+        url="https://archive.org/download/spreektaal-14-netherlands-vs.-flanders-dutch-listening-comprehension/Spreektaal%209%20-%20Mijn%20beste%20vakantie%20ooit%20%28Dutch%20listening%29.m4a"
+        type="audio/m4a"/>
+    </item>
+
+
 
   </channel>
 </rss>
